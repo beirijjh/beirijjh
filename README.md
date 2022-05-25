@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @beirijjh
-- 👀 I’m interested in ...hacking
-- 🌱 I’m currently learning ...hacking
-- 💞️ I’m looking to collaborate on ...hacking
+- 👀 I’m interested in ...hacking, programming
+- 🌱 I’m currently learning ...hacking,programming
+- 💞️ I’m looking to collaborate on ...everthing i can 
 - 📫 How to reach me ...julianjake@icloud.com
 
 <!---
